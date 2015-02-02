@@ -7,6 +7,4 @@ The yelp dataset challenge involves data from Phoenix, Las Vegas, Madison, Water
 PREPROCESSING - 
 The original Yelp dataset is provided in JSON format. Here, we stored the information present in JSON files as Mongo DB collections and then used mongoDB information for these files which helps us to retrieve necessary information and ignore the ones that are not relevant to the tasks. These files are later converted into ARFF file format since the machine learning tools that are used for this challenge takes the input files in ARFF format.
 
-Tasks - 
-Task-1: Predicting categories from review text
-Task-2: Predicting User Ratings from Review text
+Tasks - 1: Predicting categories from review text 2: Predicting User Ratings from Review text
